@@ -20,3 +20,5 @@ git remote add origin git@github.com:tiny-cold-hands/tool_index.git
 git branch -M main
 git push -u origin main
 ~~~
+
+# PyCharm配置git
